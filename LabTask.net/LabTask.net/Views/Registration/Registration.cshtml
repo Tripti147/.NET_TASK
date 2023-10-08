@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "Registration";
+}
+
+<h2>Registration</h2>
+<form action="Resiatration.php>
+
+    <h1> Sing Up</h1>
+
+
+
+    <label for="name"> <b> Name : </b></label>
+    <input type="text" id="name" name="name" pattern="[a-zA-Z-.]{4,50}" required>
+
+    <br>
+    <br>
+
+    <label for="id"><b> ID : </b></label>
+    <input type="text" id="id" name="id" pattern="\d{2}-\d{5}-\d{1}" required>
+
+
+    <br>
+    <br>
+
+
+    <label for="email"><b> Email : </b></label>
+    <input type="text" id="email" name="email" pattern="@("[0-9]{2}-[0-9]{5}-[0-9]{1}+@student.aiub.edu")" required>
+
+    <br>
+    <br>
+
+
+    <label for="userId"> <b> User ID: </b> </label>
+    <input type="text" id="userId" name="userId" pattern="[a-zA-Z0-9_-]{4,12}" required>
+
+    <br>
+    <br>
+
+    <label for="password"> <b> Password </b></label>
+    <input type="password" id="password" name="password" pattern="^(?=(?:[^A-Z]*[A-Z]){1})(?=(?:[^a-z]*[a-z]){2})(?=.*[0-9])(?=.*[^A-Za-z0-9]).{8,}$" required>
+
+
+    <br>
+    <br>
+
+    <label for="dob"> <b> DOB :</b></label>
+    <input type="date" id="dob" name="dob" required>
+    <small>Date of Birth (DOB) must be valid and age should be over 18.</small>
+
+    <br>
+    <br>
+
+    <input type="submit" value="Submit">
+
+
+
+</form>
