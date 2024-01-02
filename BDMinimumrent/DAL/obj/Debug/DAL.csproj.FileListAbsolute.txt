@@ -1,0 +1,14 @@
+C:\Users\Abdullah\Desktop\BDMinimumrent\BDMinimumrent\DAL\bin\Debug\DAL.dll.config
+C:\Users\Abdullah\Desktop\BDMinimumrent\BDMinimumrent\DAL\bin\Debug\DAL.dll
+C:\Users\Abdullah\Desktop\BDMinimumrent\BDMinimumrent\DAL\bin\Debug\DAL.pdb
+C:\Users\Abdullah\Desktop\BDMinimumrent\BDMinimumrent\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Abdullah\Desktop\BDMinimumrent\BDMinimumrent\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abdullah\Desktop\BDMinimumrent\BDMinimumrent\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Abdullah\Desktop\BDMinimumrent\BDMinimumrent\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abdullah\Desktop\BDMinimumrent\BDMinimumrent\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\BDMinimumrent\BDMinimumrent\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\BDMinimumrent\BDMinimumrent\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Abdullah\Desktop\BDMinimumrent\BDMinimumrent\DAL\obj\Debug\DAL.dll
+C:\Users\Abdullah\Desktop\BDMinimumrent\BDMinimumrent\DAL\obj\Debug\DAL.pdb
+C:\Users\Abdullah\Desktop\BDMinimumrent\BDMinimumrent\DAL\obj\Debug\DAL.Migrations.initdb.resources
+C:\Users\Abdullah\Desktop\BDMinimumrent\BDMinimumrent\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
