@@ -32,7 +32,13 @@ namespace DAL.Repos
 
         public RentUser info Read(int id)
         {
+
+
+
             return db.RentUserinfo.Find(id);
+
+
+
         }
 
 
